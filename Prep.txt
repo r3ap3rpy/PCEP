@@ -1,0 +1,19 @@
+Exam Objectives:
+
+4 datastructures:
+ - set
+ - tuple
+ - list 
+ - dictionary
+
+Control loops:
+ - for 
+ - while
+
+Operations:
+ - arithmetic
+ - bitwise
+
+Exceptions:
+ - Exception
+ - try: except:
