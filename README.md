@@ -8,8 +8,7 @@ In order to use them you need to have python3* installed.
 
 In order to use the notebooks you need to perform the following commands.
 
-.. code-block:: bash
-   :linenos:
-  
-   pip install jupyter-notebook
-   jupyter notebook 
+```bash
+pip install jupyter-notebook
+jupyter notebook 
+```
